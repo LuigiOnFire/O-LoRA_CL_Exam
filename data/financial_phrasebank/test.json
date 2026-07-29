@@ -1,0 +1,2267 @@
+[
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The proposal of the shareholders to elect Mr. Hannu Krogerus to the Board is based on his long and unrivalled experience and knowledge of all matters related to Elcoteq .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The remainder of its revenues will come from technology agreements with other firms , InterDigital said .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The remaining amount will be funded through debt , the Danish bank said .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The reorganisation will be carried out by transferring HKScan Corporation 's production-related property , plant and equipment in Finland as well as its holdings in subsidiaries and associates to HKScan Finland Oy , a holding company wholly owned by HKScan Corporation .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The report contains category level company and brand share as well as distribution share information for 2007 and 2008 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The segments through which the company operates are Frozen Food business , Seafoods , Vegetable Oil business , Grain Trading and Other business operations .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The selling consortium includes funds managed by OKO Bank 's venture capital unit , Bio Fund Management and Finnish Industry Investment , a government-owned investment group .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The solution will be installed in the USA to support the North American operations of the customer .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The Stockmann department store will have a total floor space of over 8,000 square metres and Stockmann 's investment in the project will have a price tag of about EUR 12 million .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The studies are expected to start in 2008 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The tanks will be delivered to a company which is currently building a chemical tank farm in Antwerp , northern Belgium .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The terms of the transactions remained undisclosed .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total capacity of the factory will be approximately 100 engines a year .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total floor area of the plant expansion is 29,000 square metres .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total investment in 2006 and 2007 is expected to amount to about EUR75m .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total investment of the project will be approximately EUR 36m .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total value of the contract is some EUR 8 million .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total value of these two contracts is over EUR 21 million .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The transaction is planned to be financed with a EUR40m market-based loan granted by Standard Chartered Bank Hong Kong .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The transaction value is CAD 15 million approximately EUR 10 million .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The unit 's clients are mainly in the field of specialist convenience goods , as well as in the textile , shoe and furniture businesses .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the contract is about EUR 27mn .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the contract is about EUR1 .0 m. Poyry , headquartered in Vantaa , Finland provides consulting and engineering services to the energy , forestry and infrastructure & environment sectors .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the contract is EUR 25mn .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the contract is in total USD12m .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the contracts is about EUR 3.3 mn .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the deal has not been disclosed .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the deal was not disclosed .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the multi-year agreement is over EUR 2mn a year .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of the three-year contract is estimated at EUR40m .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The value of this kind of order amounts usually between Euro 2 and 3 million .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The Web-Marela application handles invitations to quote , quote comparisons , agreements , purchases , invoice inspections , inventory management , and deliveries .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The works will include the laying of natural stone pavements and the installation of underground heating , and surface water drainage systems .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "There have not been previous share subscriptions with 2004 stock options .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "These new units will be built at Cargotec 's state of the art manufacturing facility in San Antonio , Texas , USA , which started operations in 2009 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "This could be any of us at any time , '' she said .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "This wood lacquered clock comes with a stripy hand-crocheted cover .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "To see a slide show of all the newest product releases from Fiskars .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Total value of the contract is about EUR 10mn .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Tulikivi manufactures heat-retaining , soapstone and ceramic fireplaces , as well as natural stone products and utility ceramics .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Tyrv+\u00f1inen is of the opinion that the airline has been repeating this for some time already , however .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Under the agreement , Larox will transfer 10 employees within engineering and documentation related to delivery projects and product maintenance in Finland to Etteplan as of January 1 , 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Under the transaction agreement , Metsaliitto will purchase 24.7 % of Metsa-Botnia 's shares from UPM and 3 % from M-real .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Unit prices for straddle carriers vary between EUR700 ,000 and EUR900 ,000 , the company added .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "UPM-Kymmene said its has ` not indicated any interest in any domestic consolidations ' .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Valmet Automotive reports net sales of EUR 85mn and operating profit of EUR 8mn .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Veidekke , headquartered in Oslo , Norway , is a Scandinavian construction and property development group with some 6,350 employees in Norway , Sweden and Denmark , with an annual turnover of NOK16 .4 bn .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Why not subscribe to the magazine ?",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Vianor sells tires for cars and trucks as well as a range of other car parts and provides maintenance services .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "With the new arrangement , customer responsibilities will become mainly regional .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "With this acquisition the wireless modem unit and its approximately 1,100 employees were transferred to Renesas Electronics Corporation .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the third quarter of fiscal 2008 Efore swung to a net loss of EUR 400,000 versus a net profit of EUR 200,000 for the corresponding period of fiscal 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Konecranes Oyj KCR1V FH fell 5.5 percent to 20.51 euros , the biggest fall since June .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totaled EUR 25mn compared to a profit of EUR 63mn in the corresponding period in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Return on investment ROI was 4.1 % compared to 43.8 % in the first half of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "A total of 16.5 mn passenger ship journeys took place in the northern Baltic Sea in 2007 , slightly down from 16.5 mn in 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish media group Talentum has issued a profit warning .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish shipping company Finnlines ' pretax loss totalled EUR 6.5 mn in the third quarter of 2009 , compared to a profit of EUR 0.3 mn in the third quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In Finland , the city of Forssa has said it will not pay compensation to food industry companies HK Ruokatalo and Atria for the lye leak into tap water that occurred in March 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Acando AB ( ACANB SS ) fell 8.9 percent to 13.35 kronor , the lowest close since Dec. 11 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "According to CEO Matti Perkonoja of the parent company HKScan , the company 's performance in the first quarter of 2010 has remained clearly below the level of the corresponding period in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Diluted earnings per share ( EPS ) stood at EUR 0.25 versus EUR 0.42 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish automation solutions developer Cencorp Corporation ( OMX Helsinki : CNC1V ) issued on Thursday ( 18 September ) a profit warning for the third quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish communication electronics components supplier Scanfil Oyj Tuesday said sales in the first half of 2006 will be 15 % lower than during the same period a year ago .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish technology company Raute Corporation ( OMX Helsinki : RUTAV ) issued on Tuesday ( 23 September ) a profit warning for the financial year 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In Q1 of 2009 , the company 's operating loss totalled EUR 0.3 mn , compared to a profit of EUR 3.6 mn in Q1 of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Last year , 8.3 million passengers flew the airline , down 4 percent from 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Loss after financial items totalled EUR 9.7 mn , compared to a profit of EUR 1.3 mn in the corresponding period in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Loss for the period totalled EUR 15.6 mn compared to a profit of EUR 6.3 mn in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss amounted to EUR 0.9 mn in the first half of 2006 compared to a profit of EUR 0.5 mn in the first half of 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss of the Pulp & Paper Machinery unit was over EUR 3mn in September 2007 - August 2008 , compared to a profit of EUR 3.7 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totaled EUR 0.3 mn compared to a profit of EUR 2.2 mn in the corresponding period in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totaled EUR 0.8 mn , compared to a profit of EUR 0.5 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totalled EUR 12.7 mn , compared to a profit of EUR 17.7 mn in the first half of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totalled EUR 4.0 mn , compared to a profit of EUR 8.6 mn in the second quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totalled EUR 5.2 mn , compared to a loss of EUR 3.4 mn in the corresponding period in 2008-2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Pretax loss totaled EUR 117mn compared to a loss of EUR 65mn in the corresponding period .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Pretax loss totalled EUR 162.3 mn compared to a profit of EUR 253.5 mn in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Pretax loss totalled EUR 49.9 mn , compared to a loss of EUR 15.4 mn in the corresponding period in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Publishing Sweden 's operating loss was EUR 1.1 mn in Q1 of 2009 , compared to a profit of EUR 0.6 mn a year ago .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company reported today an operating loss of EUR0 .1 m on net sales of EUR4 .5 m for the first quarter 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cerberus Capital Management LP-backed printing paper maker NewPage Corp. has posted mixed second-quarter results , casting a cloud over its planned initial public offering .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish electronics manufacturing services EMS company Elcoteq SE posted a net loss of 66.4 mln euro $ 91.2 mln for the first half of 2007 , compared to a net profit of 7.1 mln euro $ 9.8 mln for the same period of 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish laboratory liquid handling and diagnostic test systems developer Biohit Oyj OMX Helsinki : BIOBV issued on Tuesday 3 June a profit warning for the financial year 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish retail software developer Aldata Solution Oyj reported a net loss of 11.7 mln euro $ 17.2 mln for 2007 versus a net profit of 2.5 mln euro $ 3.7 mln for 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish textiles and clothing group Marimekko Oyj posted a net profit of 7.99 mln euro $ 10.4 mln for 2006 , compared to 8.4 mln euro $ 10.9 mln for 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In January-June 2010 , diluted loss per share stood at EUR0 .3 versus EUR0 .1 in the first half of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In October , UPM reported a third-quarter net loss of euro86 million $ 110 million compared with a net profit of euro120 million in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss amounted to EUR 0.7 mn compared to a profit of EUR 0.8 mn in the second quarter of 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss before non-recurring items was EUR 0.9 mn , compared to a profit of EUR 11.5 mn in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit margin was 8.3 % , compared to 11.8 % a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit was EUR 1.6 mn in 2005 compared to EUR 5.9 mn in 2004 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating result showed a loss of EUR 2.9 mn , while a year before , it showed a profit of EUR 0.6 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Salcomp Oyj , the Finnish maker of mobile phone chargers , Monday posted a EUR1 .49 million loss in the second quarter compared with a 1.70 million profit in the same period the previous year .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Scanfil has also issued a profit warning .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Scanfil issued a profit warning on 10 April 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The operating loss amounted to EUR 0.8 mn , compared to a profit of EUR 3.9 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The real estate company posted a net loss of +\u00f3  x201a -\u00bc 59.3 million +\u00f3  x201a -\u00bc 0.21 per share compared with a net profit of +\u00f3  x201a -\u00bc 31 million +\u00f3  x201a -\u00bc 0.11 per share for the corresponding quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "TietoEnator was down 1.13 pct to 18.38 , extending recent lows after last week 's second-quarter report , dealers said .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit excluding restructuring costs grew to EUR 44.5 million from EUR 31.7 million while operating profit including restructuring costs showed even larger growth to EUR 38.5 million from EUR 7.4 million .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Having a China based operation will not only enable us to fully leverage our resources and expertise in wireless solutions , but also strengthen our capability to offer industry-leading products for our customers in China . ''",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cost cutting measures , which have produced around EUR70m of savings over the past nine months , have dampened the airline 's loss , Finnair said .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Consolidated operating profit excluding one-off items was EUR 30.6 mn , up from EUR 29.6 mn a year earlier .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "EBIT excluding non-recurring items was estimated to increase from 2009 .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit excluding non-recurring items increased by 27 % to EUR 81.9 mn from EUR 64.4 mn in the corresponding period in 2008 .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cash flow from business operations totalled EUR 0.4 mn compared to a negative EUR 15.5 mn in the first half of 2008 .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cash flow from operations totalled EUR 2.71 mn , compared to a negative EUR 0.83 mn in the corresponding period in 2008 .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cash flow from operations totalled EUR 7.4 mn , compared to a negative EUR 68.6 mn in the second quarter of 2008 .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "EBIT excluding non-recurring items , totalled EUR 67.8 mn , up from EUR 38.1 mn .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish energy company Fortum Oyj said on November 13 , 2007 it was granted an environmental permit to build a biofuel-fired combined heat and power CHP plant in Vartan harbor in eastern Stockholm .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Nokia was up 0.12 pct to 16.70 eur after kicking off the morning in negative territory .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Return on investment was 5.0 % , compared to a negative 4.1 % in 2009 .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Thus the method will cut working costs , and will fasten the planning and building processes .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The copying , republication or redistribution of AFX News Content , including by framing or similar means , is expressly prohibited without the prior written consent of AFX News .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company reported a profit of 800,000 euro ($ 1.2 mln)on the sale of its Varesvuo Partners sub-group and a loss of 400,000 euro $ 623,000 caused by the sale of its program production subsidiary Oy Filmiteollisuus Fine Ab .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The extracted filtrates are very high in clarity while the dried filter cakes meet required transport moisture limits (TMLs)for their ore grades .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "After the split , the number of K shares will be 9 540 000 and the number of A shares 26 885 540 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Established in 1987 , the SRV Group is a private Finnish construction concern with operations in Finland , the Baltic countries and Russia .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Initial estimated total value of the contract was 250 000 Euros , excluding VAT .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Nokia and Capcom announced that Resident Evil Degeneration will be released on N-Gage later this year .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Olli-Pekka Laine has been appointed as the Chairman and Erkki Pehu-Lehtonen as the Vice Chairman of the Board .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Risk exposure by Non-life Insurance  Moving 12-month  Expenses by function in Non-life Insurance excluding expenses for investment management and expenses for other services rendered Non-life Insurance investment portfolio by allocation",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The issue came up in connection with discussion with local municipalities concerning the sale of water to industrial facilities .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The purchase price will be paid in cash upon the closure of the transaction , scheduled for April 1 , 2009 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The terms and conditions of the Stock Option Scheme 2008 are available on the Company 's internet pages www.sanoma.com .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Tieto 's service is also used to send , process and receive materials related to absentee voting .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Trading code : ELI1V Number of shares : 99,483 Price-share : Gratuitous After the transfer , Elisa holds a total of 10,435,023 own shares .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "A total of 1,800,000 stock options were issued in the 2003 stock option scheme .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish publishing and printing group Ilkka-Yhtym+\u00f1 will introduced a staff smoking ban as of the beginning of 2007 at the company 's three newspapers .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Stockmann Group 's mail order unit Hobby Hall has launched a trial marketing campaign in Russia .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Alpina Sports is a Lebanon , New Hampshire USA based distributor of e.g. Alpina ski shoes and skis , Exel ski poles , Start ski waxes and now also Peltonen cross-country skis .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Among the Scandinavian companies present in St. Petersburg , is also named the Swedish concern NCC , which implements projects in the field of asphalt production , road and housing construction ( project Swedish Krona ) .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "An international conference call and audio webcast concerning the financial result January-March 2010 will begin at 14.00 EET .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Atria said its offer would give the Swedish company continued ownership and control of its slaughtering and cutting operations .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Aug. 17 , 2010 ( Curbed delivered by Newstex ) -- And now , the latest from Racked , covering shopping and retail from the sidewalks up .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Bertrand Sciard has been the vice chairman of the board of directors of Aldata Solution since April 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Bovine slaughtering and cutting at the Kuopio facility will be transferred to the Kauhajoki slaughterhouse .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Huhtamaki 's rigid plastic consumer goods operations , which are mainly in Europe , will be separated into a new reporting segment as of 1 January 2009 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Kesko has previously published a stock exchange release concerning the deal on 7 February 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Less than ten people will face pension agreements .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Mr. Kari Stadigh will carry on as Chairman of the Board and Mr. Matti Arteva as Vice-Chairman .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Neste Oil s refineries have a combined crude oil refining capacity of approximately 260,000 barrels a day .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "New Chairman of the Board of Directors , Mr Chaim Katzman , will give a presentation and answer questions .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Panostaja Oyj 's Board also decided at its organisational meeting held upon completion of the AGM to implement the AGM decision concerning Board member fees paid as shares in such a way that shares are transferred on a quarterly basis on the date following publication of the quarterly-annual report .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Rapala Fishing Frenzy 2009 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Residents access to the block is planned to be from Aleksandri Street .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sanoma announced the Stock Option Scheme 2008 on 19 December 2008 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Short-term licenses for the games cost as little as $ 3 while purchasing a game outright can cost as much as $ 10 or $ 15 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The adjustments concern staff in both the Specialty Papers and the Fiber Composites segments .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The appointments will be in force until the new CEO has been appointed .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The authorisation is in force until the end of the next Annual General Meeting and repeals the authorisation to acquire own shares given by the General Meeting held on April 4 , 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The business had gross written premiums of EUR152 .4 m (  91.5 m ) in 2000 , a net combined ratio of 133 % and 175 staff in total with offices in the UK , Germany and Benelux .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The chilled meat products category led the meat , fish and poultry market in Finland , accounting for a share of 31.4 % .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company has a continuous need for alloys such as nickel , ferro-chrome , molybdenum and manganese in its production , said Talvivaara .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The contract also includes cutting and edging wagon parts at Ruukki 's steel service centres in Seinajoki and Raahe , both in southwestern Finland , from where they will be delivered to VR for welding and assembly .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The copying , republication or redistribution of AFX News Content , inculding by framing or similar means , is expressly prohibited without the prior written consent of AFX News .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The cosmetics collection includes an eye shadow , face powder , lip gloss , mascara and accessories .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The E7 smartphone will be available for Rs35 ,000 per handset across India , '' Nokia India vice-president & managing director D Shivakumar told reporters .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The exercise originated in Finland in the early 1930s as a training method for cross-country skiers .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The first phase of the logistics complex envisages the completion of some 70,000 sq m of logistics premises and the gatehouse building in November 2008 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The gross area of eight houses will be 12,167 m2 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The gross area of the Innova 2 project will be about 10,000 sq m ( 107,600 sq ft ) .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The interim report for the first quarter is published on May 8 , 2009 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The mill 's raw material need will increase by 100,000 m3 of wood .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The negotiations concern personnel of Cencorp Corporation and Singulase Oy as whole in Finland and in Sweden , the company said .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The negotiations will concern the plant 's department producing winded roving that employs 10 people .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The new apartment block is going up very close to the city center , explained Chairman of the Board of AS YIT Ehitus Priit Sauk .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The redesigned crushing circuit has been in operation since the start of September and its overall production rate on a weekly basis is in excess of an average of 40,000 tonnes a day .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The scheme for TeliaSonera and Altimo is practically identical , except that it involves the merger of their stakes in VimpelCom and Kyivstar .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The share subscription period for C options will commence on 1 September 2008 and expire on 31 March 2011 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The share subscription period will expire on 30 September 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The subscription period of Amer Sports ' 2002 warrant scheme will end on 31 December 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The terms and conditions of Stock Option Scheme 2004 are available on the Group 's website .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The transaction included also the transfer of the lease agreement concerning manufacturing premises and employment agreements related to these operations .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The utility will also provide services related to electricity management , such as hedging trades and risk management and reporting .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` I 'm trying to deal with slavery from a different perspective to balance the story , '' says DeRamus , formerly a writer at the Detroit Free Press and the Detroit News .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` The biggest challenge was to make the piece look raw , '' Hansen said .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` We have a license agreement with Nokia Corp. which in part expires on April 9 , 2007 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "A 2001 agreement expired earlier this month .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "After the split , the company would have 26,885,540 Series A shares and 9,540,000 Series K shares .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Boomeranger Boats Oy specialises in boat building and designs , manufactures and sells customised Rigid Inflatable Boats RIB primarily for the Baltic Sea market .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Currently the quarterly applied surcharges differ significantly from the actual market prices .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Filmiteollisuus Fine Ab will be transferred to Talentum Oyj in the form of a subsidiary .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "HELSINKI AFX - Salcomp , the mobile phone charger manufacturer , said it has appointed Markku Hangasjarvi as its new CEO , following the resignation of Mats Eriksson .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "HK Ruokatalo produces many turkey products , such as cold cuts .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "However , the brokers ' ratings on the stock differ .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Mursula said they tried to gather macro-economic perspective to see how Malaysia was doing .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Niklas Skogster has been employed by the ABB Group in various positions concerning the development of operations .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The beers differ slightly from mainstream beers .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company operates a U.S. division in Lisle , Ill. .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The deal covers Stockmann Auto Oy Ab 's sales and after-sales services concerning Volkswagen and Audi in Helsinki , Espoo and Vantaa .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The equipment is designated to Bollore Africa Logistics terminal Societe d'Exploitation du Terminal de Vridi SETV in Abidjan , Ivory Coast and the delivery is scheduled to start in March 2010 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The floor area of the Yliopistonrinne project will be 7,900 sq m and the building 's gross area will total 12,800 sq m. A total 25.1 % of the facilities have been let .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The floor area of the Yliopistonrinne project will be 7,900 sq m 85,030 sq ft and the building 's gross area will total 12,800 sq m. A total 25.1 % of the facilities have been let .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The measures result from the statutory joint negotiations with employees which started in February and concerned all operations in the country .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The product range includes marinated olives , cold cuts , and pates , for example .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The terms and conditions of the year 2003 stock option scheme were published in a stock exchange release on 31 March 2003 .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "This action follows personnel negotiations concerning Elcoteq SE , Finnish Branch , Elcoteq Finland Oy and Elcoteq Design Center Oy .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Unbelievably , the company that makes them - Fiskars Corporation - was formed in 1649 when a Dutch merchant named Peter Thorwoste was given a charter to establish a blast furnace and forging operation in the small Finnish village of Fiskars .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` Those uncertainties cloud the long-term outlook . ''",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "20 October 2010 - Finnish environmental management company Lassila & Tikanoja Oyj HEL : LAT1V , or L&T , said Monday it expects its operating profit , excluding non-recurring items , for the whole 2010 to be slightly lower than in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "According to Finnish petrol station chain St1 's managing director Kim Wiio , the company was forced to make purchases with rising prices in the first half of 2008 , and now consumer prices are going down almost daily due to competition .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnair said that the cancellation of flights would cause daily losses of  x20ac 2.5 million US$ 3 million .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Food sales totalled EUR 323.5 mn in October 2009 , representing a decrease of 5.5 % from October 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Raute reported a loss per share of EUR0 .86 for the first half of 2009 , against EPS of EUR0 .74 in the corresponding period of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The move was triggered by weak demand for forestry equipment and the uncertain market situation .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The situation of coated magazine printing paper will continue to be weak .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Copper , lead and nickel also dropped ... HBOS ( HBOS ) plummeted 20 % to 70.3 pence after saying this year+\u00f3 ??",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earnings per share ( EPS ) dropped to EUR 0.21 from EUR 0.31 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnair 's passenger load factor , which measures the number of sold seats as a share of all available seats , dropped by 1.3 percentage points to 76.7 % in September .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Frost sold shares for $ 19 million at $ 6.06-7 .12 per share , compared with Friday 's high of $ 11.33 and low of $ 10.14 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "L&T 's net profit for the whole 2010 dropped to EUR 36 million from EUR 45 million for 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Lassila & Tikanoja 's operating profit excluding non-recurring and imputed items for the second quarter was EUR11 .3 m , down from EUR13 .8 m a year ago .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net cash flow from operating activities was a negative EUR 3.1 mn , compared to EUR 23.3 mn in the corresponding period in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net cash from operating activities was a negative EUR 0.3 mn , compared to EUR 30.9 mn in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales dropped by 6 % year-on-year to EUR 11.9 million .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales have been eaten by the weak US dollar .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Okmetic expects its net sales for the first half of 2009 to be less than in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit , excluding non-recurring items , totaled EUR 0.2 mn , down from EUR 0.8 mn in the corresponding period in 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit , excluding non-recurring items , totalled EUR 1.0 mn , down from EUR 1.6 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit , excluding non-recurring items , totalled EUR 2.2 mn , down from EUR 2.7 mn in the corresponding period in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit excluding non-recurring items amounted to EUR 40.6 mn , down from EUR 57.3 mn year-on-year .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit excluding non-recurring items was EUR 7.8 million compared to EUR 11.2 million .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Relations with the City have been further damaged by comments from Mr Ashley criticising City investors and analysts as `` cry babies '' .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Reported operating margin was a negative 5.9 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Swedbank 's shares have been hardest hit of the Swedish banks by the ongoing international financial crisis .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The currency effect had a 3.0 pct , or 20 mln euro ( $ 31.3 mln ) , negative impact on the revenue .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The period 's sales dropped to EUR 30.6 million from EUR 38.3 million , according to the interim report , released today .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Therefore , the company 's 2005 result will remain weaker than that of 2004 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` The implementation of these programs has had , and will have , negative impacts on 2006 and 2007 earnings , '' Mr Meiklejohn said .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "A survey conducted by Taloustutkimus for Sampo Life shows that companies are badly prepared to losing key staff members .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Agricultural newspaper Maaseudun Tulevaisuus had 318,000 readers , representing a decrease of 6 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "At 1411 CET , ArcelorMittal had lost 7.26 % to EUR 17.38 on Euronext Paris , coming at the lead of the blue-chip fallers .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cash flow from operations in January-December 2008 was a negative EUR 18.1 mn compared to EUR 39.0 mn in the corresponding period in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "EPS dropped to EUR0 .2 from EUR0 .3 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Kone shares dropped 4.1 percent to  x20ac 43 US$ 55.77 in Helsinki .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The EU Commission said earlier it had fined ThyssenKrupp , United Technologies Corp 's Otis , Schindler AG and Kone Oyj a total of 992.3 mln eur for alleged cartel activity in the lift market going back twelve years .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The period 's sales dropped to EUR30 .6 m from EUR38 .3 m , according to the interim report , released today .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "YIT lodged counter claims against Neste Oil totaling some EUR25m , primarily based on work carried out under the contract and additional costs incurred due to prolongation of the project .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "` The stable outlook reflects Nokia 's strong market position in the global mobile handset market , strong cash flow generation , and very conservative balance sheet , ' said Raab .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "These financing arrangements will enable the company to ensure , in line with its treasury policy , that it has sufficient financial instruments at its disposal for its potential capital requirements .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "efficiency improvement measures 20 January 2010 - Finnish stationery and gift retailer Tiimari HEL : TII1V said today that it will continue to improve its operational efficiency , by focusing on its profitable core operations .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Efore 's results for the last quarter showed an even faster improvement as the company managed to better source its components .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Technical indicators for the stock are bullish and S&P gives NOK a positive 4 STARS out of 5 buy ranking .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The restructuring creates a more efficient organization with increased operational focus and stable profitability , and leads to more efficient production , said Bo Annvik , head of Specialty Stainless .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` We 're delighted with the move '' says Morna Cowie , co-owner , above , `` it 's double the size of our current shop and has a lovely feel to it . ''",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` After a long , unprofitable period the Food Division posted a profitable result , which speaks of a healthier cost structure and a new approach in business operations , '' Rihko said .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earnings per share were higher at 0.48 against 0.37 a year before and ahead of market consensus of 0.40 eur .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "29 September , 2010 Finnish waste management and recycling company Lassila & Tikanoja expands its operations in Russia by introducing its recently completed recycling plant in the city of Dubna near Moscow .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` Method and System for Controlling a Hard Disk Drive Using a Multimediacard Physical Interface '' was invented by Marko Ahvenainen Ruutana , Finland .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The 10,000-odd square metre plot that Stockmann has bought for the Nevsky Center shopping center is located on Nevsky Prospect , St Petersburg 's high street , next to the Vosstaniya Square underground station , in the immediate vicinity of Moscow Station .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Typically , the transmission power level can be decreased when the interference noise is above a predefined value .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sukhraj Dulai , of the 2900 block of Boni Sue Court , a cul-de-sac on the city 's north side , started the vehicle and went inside his house about 8 a.m. Tuesday , leaving the garage door open .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Typical end-uses include roof structures , floorings , walls and ceilings , non-visible structures in vehicles , packaging and boxes , construction site structures , fencing and shelters , and formwork with a limited number of concrete pourings .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Tallink Silja attributes the significant drop to problems with the booking system that was taken into operation in October , the sale of trailer ferry ` Sky Wind ' and the route between Stockholm and Riga , which has won passengers from the Helsinki-Stockholm route .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` Adjustment to the fall in price level , in contrast , has been less effective .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "17 March 2011 - Goldman Sachs estimates that there are negative prospects for the Norwegian mobile operations of Norway 's Telenor ASA OSL : TEL and Sweden 's TeliaSonera AB STO : TLSN in the short term .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Key shareholders of Finnish IT services provider TietoEnator Oyj on Friday rejected a hostile EUR1 .08 billion $ 1.67 billion offer from buyout shop Nordic Capital , giving new life to a possible counter offer from Blackstone Group LP and Norwegian telecom Telenor ASA .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "He answers questions on how many visitors Conversations gets , how big the team is and what the problems are when setting up social media channels .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "BioTie North-American licensing partner Somaxon Pharmaceuticals started a phase II-III clinical study in patients suffering from pathological gambling and a pilot phase II study in nicotine addiction smoking cessation .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "For 24-hour news , try ICIS news www.icis.com Click `` trial '' , then ICIS news",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "He wore a black beanie-type cap and a black jacket .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The products have a low salt and fat content .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnair believes the strike will cause it daily net losses in excess of EUR 2mn due to canceled reservations and passenger re-routing .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "HELSINKI Thomson Financial - Shares closed little changed , with Cargotec and Huhtamaki dropping sharply on disappointing second-quarter reports .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The airline estimated that the cancellation of its flights due to the closure of European airspace , and the process of recommencing traffic , have caused a the company a loss of EUR20m , including the costs of stranded passengers ' accommodation .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Ruukki Group calculates that it has lost EUR 4mn in the failed project .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Samsung currently occupies third place and lost ground during the quarter , dropping by 1.8 % to an 11.1 % share overall .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The Baltimore Police and Fire Pension , which has about $ 1.5 billion , lost about $ 3.5 million in Madoff Ponzi scheme .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Dealers said the share was largely hit by investor disappointment about a refining margin of just 9.48 usd per barrel for the quarter and the performance of its shipping unit , which saw EBIT drop to 5 mln eur from 20 mln eur a year amid a fall in volumes and tanker rates .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Making matters more difficult , the company said it has been grappling with higher oil and gas prices , which have pushed up the cost of energy , raw materials and transportation .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "One of the headboxes will be equipped with a modern consistency control system to ensure cross machine profile of the plasterboard .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The result will also be burdened by increased fixed costs associated with operations in China , and restructuring costs in Japan .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "As part of the transaction , M-real and Sappi have also signed a long-term agreement on the supply of pulp and BCTMP and other smaller services and supplies .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earlier today , Geberit 's Finnish rival Uponor OYJ cut its full-year sales growth forecast to 6 pct from 10 pct , blaming tough conditions in Germany and the US , as well as currency factors .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating loss totalled EUR 0.9 mn , down from a profit of EUR 2.7 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The group 's operating loss was EUR 0.8 mn , down from a profit of EUR 2.5 mn in 2004 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The Finnish national carrier said net loss in April through June was euro26 million , down from a net profit of euro13 million a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "It generated an operating loss of EUR 96.3 mn , down from a profit of EUR 43.9 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Below are consolidated , unaudited results for Amanda Capital under IFRS reporting standards .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Below are unaudited consolidated results for Aspocomp Group under IFRS reporting standards .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Elcoteq SE is Europe 's largest contract electronics maker and has set up a unit in Bangalore in association with Avista Advisory of Mumbai .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "However , two of the previously ordered sets will start producing electricity at the end of October 2010 , it said .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "- Net sales for the period are expected to fall well below that of last year and the result after non-recurring items is expected to be in the red .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In Finland , the Bank of +\u00e0land reports its operating profit fell to EUR 6.1 mn in the second quarter of 2008 from EUR 7.5 mn in the second quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Budapest , August 10 MTI - Finnish electronics maker Elcoteq will lay off 700 workers at its plants in Pecs S Hungary at the end of September because of falling orders , communications director for Elcoteq 's local unit , Zoltan Krippl told MTI on Monday .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnair 's Tallinn-based subsidiary , Aero AS , carried 23,335 passengers , a decline of 60.8 % , on routes between Helsinki and the Baltic capitals and within Southern Finland .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "ADPnews - Aug 3 , 2009 - Finnish media group Ilkka-Yhtyma Oyj HEL : ILK2S said today its net profit fell 45 % on the year to EUR 5.9 million USD 8.4 m in the first half of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit for 2009 lower than outlook published earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit for continuing operations fell to EUR 48.3 mn from EUR 72.4 mn in the first half of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Revenue for the quarter totaled 27.4 billion , down 2 percent from 28.1 billion in the fourth quarter in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sanoma News ' advertising sales decreased by 22 % during the year .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Bank of +\u00e0land reports its operating profit fell to EUR 4.9 mn in the third quarter of 2007 from EUR 5.6 mn in the third quarter of 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Bank of +\u00e0land reports operating profit of EUR 2.2 mn in the first quarter of 2010 , down from EUR 6.3 mn in the corresponding period in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish electronics contract manufacturer Scanfil reports net sales of EUR 241.2 mn in 2006 , down from EUR 321.6 mn in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish electronics contract manufacturer Scanfil reports net sales of EUR 58.9 mn in the second quarter of 2007 , down from EUR 62.4 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Exel Composites , a technology company that designs , manufactures , and markets composite profiles and tubes for various industrial applications , reports its net sales decreased by 0.6 % in the second quarter of 2010 to EUR 19.2 mn from EUR 19.3 mn in the corresponding period in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish GeoSentric 's net sales decreased to EUR 939,000 in January-March 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Kemira 's net sales EUR decreased to EUR 1,259.6 mn in January-June 2009 from EUR 1,425.1 mn in January-June 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish plumbing and heating systems supplier Uponor 's net sales from continuing operations decreased by 9.4 % in 2008 to EUR 949.2 mn from EUR 1,047.4 mn in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish plumbing and heating systems supplier Uponor 's net sales in continuing business operations decreased to EUR 249.1 mn in July-September 2008 , compared to EUR 262.1 mn in the third quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Scanfil , a contract manufacturer and systems supplier for communication and industrial electronics reports net sales of EUR 108.7 mn in the first half of 2008 , down from EUR 111.1 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Scanfil , a systems supplier and contract manufacturer to the communications sector and the electronics industry , reports its net sales totalled EUR 94.7 mn in the first half of 2010 , down from EUR 99.5 mn in the first half of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish shipping company Finnlines , of the Grimaldi Group , reports its net sales decreased to EUR 241.8 mn in January-June 2009 from EUR 384.0 mn in the corresponding period in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cargo traffic fell 1 % year-on-year to 8,561 tonnes in September 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Cash flow after investments amounted to EUR45m , down from EUR46m .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Comparable operating profit decreased to EUR 13.8 mn from EUR 17.1 mn in the corresponding period in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Consolidated operating profit from continuing operations decreased by 62.3 % to EUR 51.2 mn from EUR 135.7 mn in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Consolidated pretax profit decreased by 69.2 % to EUR 41.0 mn from EUR 133.1 mn in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Device volume in the area decreased by 21 % to 2.7 mn units .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Diluted earnings per share ( EPS ) declined to EUR 0.78 from EUR 1.76 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "down to EUR5 .9 m H1 '09 3 August 2009 - Finnish media group Ilkka-Yhtyma Oyj ( HEL : ILK2S ) said today its net profit fell 45 % on the year to EUR5 .9 m in the first half of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earnings per share ( EPS ) amounted to EUR1 .37 , down from EUR2 .30 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earnings per share ( EPS ) in 2005 decreased to EUR1 .87 from EUR1 .89 in 2003 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Earnings per share ( EPS ) in the first half of 2007 amounted to EUR0 .29 , down from EUR0 .40 year ago .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnair 's total traffic decreased by 8.7 % in terms of revenue passenger kilometres .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish financial software solutions developer BasWare Oyj said its net profit fell to 884,000 euro ( $ 1.2 mln ) for the first quarter of 2007 from 2.0 mln euro ( $ 2.7 mln ) a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish glass technology company Glaston Oyj Abp net profit decreased to 2.6 mln euro ( $ 3.8 mln ) for the first nine months of 2007 from 7.8 mln euro ( $ 11.4 mln ) for the same period of 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish media company Talentum Oyj 's net profit decreased to 2.5 mln euro ( $ 4.0 mln ) for the first quarter of 2008 from 3.0 mln euro ( $ 4.7 mln ) for the same period of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish metal products company Componenta Oyj net profit went slightly down to 25.1 mln euro ( $ 40.2 mln ) for the first half of 2008 from 25.4 mln euro ( $ 40.7 mln ) for the same period of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In a separate announcement to the Helsinki stock exchange , Atria revealed that the company 's third quarter profits declined from EUR13 .9 m in the third quarter of last year to EUR12 .7 m in this year 's Q3 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the fourth quarter of 2008 , net sales decreased to EUR 121.4 mn from EUR 165.5 mn in the fourth quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Insurer Axa ( PAR : CS ) slid by 5.35 % to EUR 14.15 , after Citigroup and ING slashed their targets on the stock .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "( ADP News ) - Feb 11 , 2009 - Finnish wood products technology supplier Raute Oyj ( HEL : RUTAV ) said today its net profit decreased to EUR 4.7 million ( USD 6.1 m ) for 2008 from EUR 6.6 million for 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "( ADP News ) - Feb 12 , 2009 - Finnish construction company Lemminkainen Oyj ( HEL : LEM1S ) said today its net profit decreased to EUR 63.5 million ( USD 81.1 m ) for 2008 from EUR 80.6 million for 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "( ADP News ) - Feb 4 , 2009 - Finnish broadband data communication systems and solutions company Teleste Oyj ( HEL : TLT1V ) said today its net profit decreased to EUR 5.5 million ( USD 7.2 m ) for 2008 from EUR 9.4 million for 200",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "( ADP News ) - Jan 22 , 2009 - Finnish mobile phones maker Nokia Oyj ( OMX : NOK1V ) said today its operating profit decreased to EUR 5 billion ( USD 6.5 bn ) for 2008 from EUR 8 billion for 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "( ADPnews ) - May 4 , 2010 - Finnish cutlery and hand tools maker Fiskars Oyj Abp ( HEL : FISAS ) said today its net profit declined to EUR 12.9 million ( USD 17m ) in the first quarter of 2010 from EUR 17 million in the correspond",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Market share decreased on the route between Helsinki in Finland and Tallinn in Estonia by 0.1 percentage points to 24.8 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net profit fell by almost half to +\u00e9 5.5 million from +\u00e9 9.4 million at the end of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net profit in the three months through March 31 fell to (  x20ac ) 103 million ( US$ 165 million ) from (  x20ac ) 131 million a year earlier , the Finnish company said .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales decreased to EUR 220.5 mn from EUR 470.0 mn in the corresponding period in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales decreased to EUR 91.6 mn from EUR 109mn in the corresponding period in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales fell by 33 % from the third quarter of 2008 to EUR 130.5 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales fell by 5 % from the previous accounting period .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Net sales of Kyro 's main business area , Glaston Technologies , a manufacturer of glass processing machines , decreased to EUR 161.5 mn from EUR 164.1 mn in January-September 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell from EUR 7.9 mn in the second quarter of 2005 to EUR 5.1 mn in the second quarter of 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell to EUR 15.1 mn from EUR 24.6 mn in 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell to EUR 23.26 mn from EUR 32.86 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell to EUR 38.1 mn from EUR 55.3 mn in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell to EUR 6.2 mn from EUR 8.5 mn in the third quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Orion 's net profit for the third quarter of 2007 decreased to 36.5 mln euro ( $ 52.1 mln ) from 40.3 mln euro ( $ 57.5 mln ) a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Pretax profit decreased by 37 % to EUR 193.1 mn from EUR 305.6 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Pretax profit decreased to EUR 33.8 mn from EUR 40.8 mn in the fourth quarter of 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Pretax profit totaled EUR 9.0 mn , down from EUR 36.3 mn in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Prices and delivery volumes of broadband products decreased significantly in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Profit for the period totalled EUR 0.8 mn , down from EUR 1.1 mn in the corresponding period in 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Profit for the period totalled EUR 1.1 mn , down from EUR 1.6 mn in the third quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Revenue in the quarter fell 8 percent to ( EURO ) 2.4 billion compared to a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "SRV lowered its net sales estimate for the whole of 2008 due to uncertainties in housing sales .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Stora Enso Oyj said its second-quarter result would fall by half compared with the same period in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Subscription sales decreased slightly .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The Department Store Division 's sales fell by 8.6 % to EUR 140.2 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The fair value of the company 's investment properties went down to EUR 2.768 billion at the end of 2009 from EUR 2.916 billion a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The fair value of the company 's investment properties went down to EUR2 .769 bn at the end of September 2009 from EUR2 .878 bn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The net sales decreased to EUR 49.8 million from EUR 59.9 million .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The sales of the Tiimari segment fell by 4.0 % year-on-year to EUR3 .3 m in June 2010 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish electronics contract manufacturer Scanfil had net sales of EUR 52.2 mn in the first quarter of 2007 , down from EUR 60.1 mn a year before .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Alma Media 's operating profit amounted to EUR 11.9 mn , down from EUR 15.0 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Commission income decreased to EUR 3.8 mn , compared to EUR 4.6 mn in the third quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Commission income fell to EUR 4.6 mn from EUR 5.1 mn in the corresponding period in 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Export declined by 6 percent to 16.4 million liters .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Exports of goods fell by 59 % , and imports by 16.7 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish developer and manufacturer of mobile phone chargers Salcomp Plc OMX Helsinki : SAL1V on Wednesday 19 November lowered its full-year net sales estimate .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish investment group Norvestia Oyj said its net profit fell to 23.5 mln euro $ 30.6 mln in 2006 from 33.5 mln euro $ 43.6 mln in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Group EBIT for the first half was EUR13 .6 m US$ 17.8 m , falling short of the EUR22 .5 m it posted for the same period of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "However , the company saw its net profit for the third quarter down to EUR1 .4 m from EUR1 .5 m for the corresponding period of 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "However , the net sales declined to EUR 803.6 million from EUR 1.2 billion .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In food trade , sales amounted to EUR320 .1 m , a decline of 1.1 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In January-November 2009 , the group 's sales totalled EUR 7,801.7 mn , which was a drop of 12.6 % from the same period of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In July-September 2009 , Konecranes ' sales decreased to EUR 368.7 mn from EUR 520.4 mn in July-September 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In sales volume , Coca-Cola 's market share has decreased by 2.2 % to 24.2 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In September alone , the market declined by 10.2 percent year-on-year to 19.28 million liters .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the Baltic countries , sales fell by 40.2 % , and in Russia , by 23.2 % in terms of euros , and by 10.7 % in terms of local currency .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the Baltic countries , sales fell by 42.6 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Nokia shares hit 13.21 euros on Friday , down 50 percent from the start of the year in part because of the slow introduction of touch-screen models .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit decreased to EUR 11.2 mn from EUR 16.6 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit decreased to nearly EUR 1.7 mn , however .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell to EUR 20.3 mn from EUR 74.2 mn in the second quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit in the fourth quarter fell to EUR33m from EUR39m a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totaled EUR 3.8 mn , down from EUR 4.5 mn in the corresponding period in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totaled EUR 6.7 mn , down from EUR 7.2 mn in the corresponding period in 2005 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totaled EUR 9.4 mn , down from EUR 11.7 mn in 2004 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totalled EUR 1.22 mn , down from EUR 3.56 mn in the first quarter of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totalled EUR 30.2 mn , down from EUR 43.8 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totalled EUR 9.0 mn , down from EUR 9.7 mn in the first half of 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit totalled EUR 9.6 mn , down from EUR 42.0 mn the year before .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit was EUR -0.1 mn , down from EUR 1.3 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Profit for the period was EUR 10.9 mn , down from EUR 14.3 mn in 2009 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Revenue was slightly down , at  x20ac 495 million $ 634 million , compared to  x20ac 497 million a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sales by Seppala diminished by 6 per cent .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Talentum 's net sales in September were smaller than expected .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company 's profit totaled Ls 578,100 in H1 2007 , down 30.9 % year-on-year .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The company said that sales in the three months to the end of March slid to EUR86 .4 m US$ 113.4 m from EUR91 .2 m last year .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The operating margin came down to 2.4 % from 5.7 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The operating margin of Aker Yards Cruise & Ferries division went down from 8.3 % to 6.4 % in the first quarter of 2007 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The total capital of funds managed by the bank decreased by 28 % to EUR 284mn by the end of September 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "UPM stock fell 3 percent to EURO 12.49 $ 17.24 in early afternoon trading in Helsinki .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "YIT 's Baltic sales in the first three quarters of 2008 totaled 106.2 million euros , representing a drop of 29 percent year on year .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` I am extremely delighted with this project and the continuation of cooperation with Viking Line .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "- Demand for fireplace products was lower than expected , especially in Germany .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "However , the orders received during the period under review fell by 17 % quarter-on-quarter from the EUR 213 million recorded in the second quarter of 2010 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The announcement pushed Freenet shares down 6.3 % , or EUR0 .71 , in Frankfurt trade to EUR10 .65 as investors gave up hope United Internet AG and Drillisch would pursue their own takeover and breakup of Freenet .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Danske Bank A-S DANSKE DC jumped 3.7 percent to 133.4 kroner , rebounding from yesterday s 3.5 percent slide .",
+    "Output": "positive"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "According to the company , in addition to normal seasonal fluctuation the market situation has weakened during autumn 2008 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Changes in the market situation and tougher price competition have substantially reduced demand for bread packaging manufactured at the Kauhava plant , according to the company .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the building and home improvement trade , sales decreased by 6.3 % , totalling EUR 154.1 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the building and home improvement trade , net sales totalled EUR 1,173 mn , down from EUR 1,566 mn a year earlier .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the building and home improvement trade , sales decreased by 22.5 % to EUR 201.4 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish Suominen Corporation that makes wipes , nonwovens , and flexible packaging , expects changes in the market situation to reduce sales of Suominen 's nonwovens and wet wipes from the previously estimated volumes .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The hull of the vessel was built one block at a time and Ruukki delivered the plate material for each block as construction progressed .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The net sales of the whole fiscal year 2008 will be lower than in 2007 and operating profit is estimated to be negative .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sales at the unit slumped last year after the industry was hit by poor snowfall in the major resorts in the winter of 2006-07 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The steelmaker said that the drop in profit was explained by the continuing economic uncertainty , mixed with the current drought in bank lending , resulting in a decline in demand for its products as customers find it increasingly difficult to fund operations .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "UPM-Kymmene Corp. , the world 's largest maker of magazine paper , on Tuesday reported a 19-percent profit drop as lower paper prices , higher costs and a strong euro hurt revenue .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "As such , the space has blond wood floors ( unlike the rest of the store ) and a notably Scandinavian vibe .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish meat company Atria can no longer promise a sufficient amount of domestic beef to its customers .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "`` Capital expenditure on energy efficiency has unfortunately fallen along with the decline in the economy .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Due to the rapid decrease in net sales , personnel reductions have been carried out on a wider scale than initially expected .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Finnish waste management and cleaning group Lassila & Tikanoja Oyj ( L&T ) net profit went down to 32.2 mln euro ( $ 47.7 mln ) for 2007 from 35.3 mln euro ( $ 52.3 mln ) for 2006 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Qualcomm estimated a first-quarter profit between 46 and 50 cents a share , excluding certain items , below the analyst estimate of 61 cents a share .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Besides , as there is no depositor preference in Finland , senior debt and deposits rank on a par , which is also taken into consideration , the agency added .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating margin , however , slipped to 14.4 % from 15.1 % , dragged down by a poor performance in enterprise solutions .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Mobile communication and wireless broadband provider Nokia Inc NYSE : NOK today set new financial targets and forecasts for Nokia and the mobile device industry and also for Nokia Siemens Networks and the mobile and fixed infrastructure and related services market .",
+    "Output": "neutral"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "External net sales from the printing business fell by 43.7 % , partly due to the termination of the printing contract between Ilkka-Yhtyma 's printing house I-print Oy and sector player HSS Media AB in December 2009 and the fall in printing prices .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Seven-month sales of Ragutis , which is controlled by the Finnish brewery Olvi , declined by 11.2 percent , to 15.41 million liters , and the company held 9.89 percent of the market .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "The OMX Helsinki index was down 0.34 pct at 8,256.02 on turnover of 813.191 mln eur .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Repeats sees 2008 operating profit down y-y ( Reporting by Helsinki Newsroom ) Keywords : TECNOMEN-RESULTS",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Comparable operating profit totaled EUR 4.7 mn , down from EUR 5.1 mn in the corresponding period in 2005 , representing 7.4 % of net sales .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In Finland 's Hobby Hall 's sales decreased by 10 % , and international sales fell by 19 % .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "In the Baltic states the company reports net sales of EUR 11.9 mn , down from EUR 14.2 mn , and an operative EBIT of EUR -2.2 mn , down from EUR -1.7 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profits in the half were  0.8 m , down from  0.9 m as Glisten invested in the brand and the management team .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sales in Finland decreased by 2.0 % , and international sales decreased by 9.3 % in terms of euros , and by 15.1 % in terms of local currencies .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating result for the 12-month period decreased from the profit of EUR0 .4 m while turnover decreased from EUR5 .6 m , as compared to 2004 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "HELSINKI Thomson Financial - Shares in Cargotec fell sharply in early afternoon trade after the cargo handling group posted a surprise drop in April-June profits , which overshadowed the large number of new orders received during the three months .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "LONDON MarketWatch -- Share prices ended lower in London Monday as a rebound in bank stocks failed to offset broader weakness for the FTSE 100 .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Operating profit fell to EUR 35.4 mn from EUR 68.8 mn in 2007 , including vessel sales gain of EUR 12.3 mn .",
+    "Output": "negative"
+  },
+  {
+    "Instruction": "Classify the sentiment of the following financial news sentence into positive, negative, or neutral.",
+    "Input": "Sales in Finland decreased by 10.5 % in January , while sales outside Finland dropped by 17 % .",
+    "Output": "negative"
+  }
+]

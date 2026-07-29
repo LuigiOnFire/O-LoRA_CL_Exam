@@ -1,0 +1,14 @@
+{
+  "TC": [
+    {
+      "sampling strategy": "full",
+      "dataset name": "dbpedia"
+    }
+  ],
+  "SC": [
+    {
+      "sampling strategy": "full",
+      "dataset name": "financial_phrasebank"
+    }
+  ]
+}
