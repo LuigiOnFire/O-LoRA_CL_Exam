@@ -1,0 +1,13 @@
+
+# HPC & Container Exclusions
+.venv/
+.scratch_cache/
+*.sif
+initial_model/
+logs/
+logs_and_outputs*/
+*.log
+*.out
+*.err
+NODE_TMP/
+*.pyc
